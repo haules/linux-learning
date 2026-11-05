@@ -1,0 +1,12 @@
+server01
+Filesystem           Size  Used Avail Use% Mounted on
+/dev/mapper/rl-root   25G  5.5G   20G  22% /
+devtmpfs             1.8G     0  1.8G   0% /dev
+tmpfs                1.8G   84K  1.8G   1% /dev/shm
+tmpfs                725M  9.7M  715M   2% /run
+tmpfs                1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p2       2.0G  686M  1.3G  35% /boot
+tmpfs                363M  148K  362M   1% /run/user/1000
+/dev/sr0             9.6G  9.6G     0 100% /run/media/haules/Rocky-10-2-x86_64-dvd
+ 15:40:02 up 10 min,  1 user,  load average: 0.01, 0.33, 0.36
+haules   tty2         2026-11-05 15:30 (local)
